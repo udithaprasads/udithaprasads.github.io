@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstandAloneApp=self.webpackChunkstandAloneApp||[]).push([[423],{3423:(a,e,l)=>{l.r(e),l.d(e,{default:()=>t});const t=[{path:"",pathMatch:"full",redirectTo:"deferrable-view"}]}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstandAloneApp=self.webpackChunkstandAloneApp||[]).push([[339],{7339:(t,e,s)=>{s.r(e),s.d(e,{WEB_WORKERS_ROUTE:()=>n});const n=[{path:"",pathMatch:"full",redirectTo:"web-workers"}]}}]);
